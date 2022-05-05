@@ -4,7 +4,7 @@ show_title: false
 banner:
   collection: protest
   pid: obj9
-  y: 25%
+  y: 60%
   height: '500px'
 ---
 
@@ -16,6 +16,7 @@ But in thinking towards the future, we’re also thinking of the past. This exhi
 
 ## Explore
 - [Peace Efforts](exhibits/peace-efforts)
+- [Strike of '68-69](exhibits/strike-of-68-69)
 
 ## Credits
 
