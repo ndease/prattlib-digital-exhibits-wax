@@ -22,7 +22,7 @@ title:            'Protest at Pratt'
 description:      'Student Activism Then & Now'
 url:              ''
 baseurl:          '/wax'
-copyright:        'Example copyright org, 2019'
+copyright:        'Pratt Institute Archives, 2020'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -113,8 +113,18 @@ menu:
     sub:
       - label: 'Peace Efforts'
         link: '/exhibits/peace-efforts/'
-      - label: 'other'
-        link: '/exhibits/b/'
+      - label: 'Strike of 68-69'
+        link: '/exhibits/strike-of-68-69/'
+      - label: 'Black Student Union Involvement'
+        link: '/exhibits/black-student-union-involvement/'
+      - label: 'Publications'
+        link: '/exhibits/publications/'
+      - label: 'Strike of 72'
+        link: '/exhibits/strike-of-72/'
+      - label: 'Community Outreach'
+        link: '/exhibits/community-outreach/'
+      - label: 'Current Initiatives'
+        link: '/exhibits/current-initiatives/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
@@ -127,13 +137,11 @@ menu:
 
 footer:
   links:
-    - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
     - label: 'Credits'
       link: '/credits'
     - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+      link: 'mailto:archives.library@pratt.edu'
   logos:
-    - img: '/img/logo.png'
+    - img: '/img/logo-black.png'
 
 # FIN
