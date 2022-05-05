@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 title: 'Peace Efforts'
-publish_date: 2018-11-15
+publish_date: 2020
 permalink: /exhibits/peace-efforts/
 ---
 
@@ -19,13 +19,21 @@ A number of student groups formed that were related to the efforts to stop the w
 {% include inline_image.html collection='protest' pid='obj2' %}
 {% include inline_image.html collection='protest' pid='obj3' %}
 
-{% include parallax_image.html collection='protest' pid='obj12' y='50%' %}
+## Educational Center for peace
 
+By 1970, the Educational Center for Peace had been created at Pratt to promote civic engagement. They had different committees with different goals, such as the Committee on Environmental Awareness and Environmental Quality in the example to the right. They also managed to recreate the official school curriculum for that summer, focusing on peace-related activities.
 
----
+{% include inline_image.html collection='protest' pid='obj4' %}
 
-### Notes
+## Examples of activities
 
-[^1]: Integer eu augue elementum, venenatis nisi vitae, ultrices magna. Nunc accumsan sem quis tristique iaculis. Quisque sed lorem tortor.
+The Create for Peace initiative and a free child-care Coop are examples of the types of activities and programs that were associated with the Educational Center for Peace.
 
-[^2]: Nunc semper commodo fringilla. Proin eget metus eget felis faucibus aliquet. Cras ultrices turpis id nibh cursus fringilla. Aenean nec magna turpis. Suspendisse egestas tellus iaculis ante pharetra imperdiet ac at odio.
+{% include inline_image.html collection='protest' pid='obj5' %}
+{% include inline_image.html collection='protest' pid='obj6' %}
+
+## Pratt Students Against war
+
+Student groups also coordinated with city-wide and national peace initiatives. In this example, the group Pratt Students Against War organized a Moratorium Day of Learning in conjunction with the National Peace Action Coalition and also participated in a protest in lower Manhattan. They distributed these booklets to ensure that students knew what to do if they were arrested.
+
+{% include inline_image.html collection='protest' pid='obj7' %}
