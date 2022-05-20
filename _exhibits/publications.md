@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 title: 'Publications'
-publish_date: 2020
+publish_date: 2021-01-15
 permalink: /exhibits/publications/
 ---
 

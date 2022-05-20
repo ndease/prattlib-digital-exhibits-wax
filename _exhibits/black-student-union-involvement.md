@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 title: 'Black Student Union Involvement'
-publish_date: 2018-11-15
+publish_date: 2021-01-15
 permalink: /exhibits/black-student-union-involvement/
 ---
 The Pratt student strikes in 1968 and 1969 were initially in response to the tuition raise and purchase of Willoughby buildings, but the scope broadened to address the administration’s disregard for students' and staff's interests, thus breeding a new desire in students to restructure the Institute as a whole.

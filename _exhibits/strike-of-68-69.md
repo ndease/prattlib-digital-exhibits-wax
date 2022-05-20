@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 title: 'Strike of 68-69'
-publish_date: 2018-11-15
+publish_date: 2020-11-15
 permalink: /exhibits/strike-of-68-69/
 ---
 

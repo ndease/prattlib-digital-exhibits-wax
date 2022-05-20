@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 title: 'Peace Efforts'
-publish_date: 2020
+publish_date: 2021-01-15
 permalink: /exhibits/peace-efforts/
 ---
 

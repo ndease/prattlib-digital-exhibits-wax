@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 title: 'Current Initiatives'
-publish_date: 2020
+publish_date: 2021-01-15
 permalink: /exhibits/current-initiatives/
 ---
 
