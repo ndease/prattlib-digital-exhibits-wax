@@ -17,6 +17,11 @@ But in thinking towards the future, we’re also thinking of the past. This exhi
 ## Explore
 - [Peace Efforts](exhibits/peace-efforts)
 - [Strike of '68-69](exhibits/strike-of-68-69)
+- [Black Student Union Involvement](exhibits/black-student-union-involvement)
+- [Publications](exhibits/publications)
+- [Strike of '72](exhibits/strike-of-72)
+- [Community Outreach](exhibits/community-outreach)
+- [Current Initiatives](exhibits/current-initiatives)
 
 ## Credits
 
