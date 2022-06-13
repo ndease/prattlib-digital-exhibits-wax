@@ -2,6 +2,7 @@
 layout: exhibit
 title: 'Community Outreach'
 publish_date: 2021-01-15
+author: Pratt Institute
 permalink: /exhibits/community-outreach/
 ---
 

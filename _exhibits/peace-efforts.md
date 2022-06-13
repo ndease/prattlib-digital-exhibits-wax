@@ -2,6 +2,7 @@
 layout: exhibit
 title: 'Peace Efforts'
 publish_date: 2021-01-15
+author: Pratt Institute
 permalink: /exhibits/peace-efforts/
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: exhibit
 title: 'Strike of 68-69'
-publish_date: 2020-11-15
+publish_date: 2021-01-15
+author: Pratt Institute
 permalink: /exhibits/strike-of-68-69/
 ---
 

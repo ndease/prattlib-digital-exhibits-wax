@@ -2,6 +2,7 @@
 layout: exhibit
 title: 'Strike of 72'
 publish_date: 2021-01-15
+author: Pratt Institute
 permalink: /exhibits/strike-of-72/
 ---
 
