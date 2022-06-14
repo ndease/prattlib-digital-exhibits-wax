@@ -20,8 +20,8 @@
 
 title:            'Protest at Pratt'
 description:      'Student Activism Then & Now'
-url:              ''
-baseurl:          '/wax'
+url:              'https://specialcollections.pratt.edu'
+baseurl:          '/protest-at-pratt'
 copyright:        'Pratt Institute Archives, 2020'
 logo:             '/assets/logo.png'
 
@@ -109,7 +109,7 @@ menu:
         link: '/about/'
       - label: 'Credits'
         link: '/credits/'
-  - label: 'Exhibits'
+  - label: 'Explore'
     sub:
       - label: 'Peace Efforts'
         link: '/exhibits/peace-efforts/'
