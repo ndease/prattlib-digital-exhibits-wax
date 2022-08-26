@@ -2,7 +2,6 @@
 layout: exhibit
 title: 'Strike of 72'
 publish_date: 2021-01-15
-author: Pratt Institute
 permalink: /exhibits/strike-of-72/
 ---
 
@@ -38,3 +37,5 @@ This flyer details an event that took place during the strike. In addition to ot
 This overview of events was published in Striker (see [Publications]({{ '/' | absolute_url }}/exhibits/publications)) and provided a full detailing of the strike.
 
 {% include inline_image.html collection='protest' pid='obj32' %}
+
+<a class="next-exhibit" href="../community-outreach">Proceed to Community Outreach<img src="../../assets/openseadragon/images/next_hover.png" alt=""></a>

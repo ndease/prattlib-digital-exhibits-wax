@@ -2,7 +2,6 @@
 layout: exhibit
 title: 'Strike of 68-69'
 publish_date: 2021-01-15
-author: Pratt Institute
 permalink: /exhibits/strike-of-68-69/
 ---
 
@@ -36,3 +35,5 @@ Bedford–Stuyvesant community. The letter writers condemned the Instutite's act
 Students disseminated all sorts of literature in order to inform the Pratt community of the various misdeeds of the administration. In this example, they used the budget numbers to show that more should be invested in the students.
 
 {% include inline_image.html collection='protest' pid='obj12' %}
+
+<a class="next-exhibit" href="../black-student-union-involvement">Proceed to Black Student Union Involvement<img src="../../assets/openseadragon/images/next_hover.png" alt=""></a>

@@ -2,7 +2,6 @@
 layout: exhibit
 title: 'Community Outreach'
 publish_date: 2021-01-15
-author: Pratt Institute
 permalink: /exhibits/community-outreach/
 ---
 
@@ -55,3 +54,5 @@ Here is an example of student work that came out of the program, a booklet of po
 In 1982, the Youth Skills Discovery and Development Summer Program celebrated its official 10-year anniversary.
 
 {% include inline_image.html collection='protest' pid='obj40' %}
+
+<a class="next-exhibit" href="../current-initiatives">Proceed to Current Initiatives<img src="../../assets/openseadragon/images/next_hover.png" alt=""></a>

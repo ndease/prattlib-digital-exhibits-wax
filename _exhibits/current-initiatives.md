@@ -2,7 +2,6 @@
 layout: exhibit
 title: 'Current Initiatives'
 publish_date: 2021-01-15
-author: Pratt Institute
 permalink: /exhibits/current-initiatives/
 ---
 

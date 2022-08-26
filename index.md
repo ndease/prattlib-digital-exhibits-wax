@@ -27,6 +27,6 @@ But in thinking towards the future, we’re also thinking of the past. This exhi
 
 Amber Colón (Graphic Arts and Social Justice, Preserving Activism Fellow), Nicole Marconi (Graduate Assistant MSLIS) & Miranda Siler (Graduate Assistant MSLIS/MA History of Art and Design)
 
-## Browse the Collection
+## Browse the exhibit
 
 {% include collection_gallery.html facet_by='description' collection='protest' %}

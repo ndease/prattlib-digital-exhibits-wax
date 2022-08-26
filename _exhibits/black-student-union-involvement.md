@@ -2,7 +2,6 @@
 layout: exhibit
 title: 'Black Student Union Involvement'
 publish_date: 2021-01-15
-author: Pratt Institute
 permalink: /exhibits/black-student-union-involvement/
 ---
 The Pratt student strikes in 1968 and 1969 were initially in response to the tuition raise and purchase of Willoughby buildings, but the scope broadened to address the administration’s disregard for students' and staff's interests, thus breeding a new desire in students to restructure the Institute as a whole.
@@ -66,3 +65,5 @@ On May 18th, 1972, Pratt faculty members released a statement expressing support
 The Pratt BSU, faculty, Engineering School, and student coordinate were all demanding that Henry Saltzman be removed as president of the Institute. Lack of democracy, lack of consultation with students and faculty, poor use of funds, and failure to maintain the signed commitments made to the BSU in 1969 were some of the various reasons for this unanimous demand.
 
 {% include inline_image.html collection='protest' pid='obj19' %}
+
+<a class="next-exhibit" href="../publications">Proceed to Publications<img src="../../assets/openseadragon/images/next_hover.png" alt=""></a>

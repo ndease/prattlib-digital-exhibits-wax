@@ -2,7 +2,6 @@
 layout: exhibit
 title: 'Peace Efforts'
 publish_date: 2021-01-15
-author: Pratt Institute
 permalink: /exhibits/peace-efforts/
 ---
 
@@ -38,3 +37,5 @@ The Create for Peace initiative and a free child-care Coop are examples of the t
 Student groups also coordinated with city-wide and national peace initiatives. In this example, the group Pratt Students Against War organized a Moratorium Day of Learning in conjunction with the National Peace Action Coalition and also participated in a protest in lower Manhattan. They distributed these booklets to ensure that students knew what to do if they were arrested.
 
 {% include inline_image.html collection='protest' pid='obj7' %}
+
+<a class="next-exhibit" href="../strike-of-68-69">Proceed to Strike of 68-69<img src="../../assets/openseadragon/images/next_hover.png" alt=""></a>

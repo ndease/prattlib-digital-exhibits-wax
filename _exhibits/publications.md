@@ -2,7 +2,6 @@
 layout: exhibit
 title: 'Publications'
 publish_date: 2021-01-15
-author: Pratt Institute
 permalink: /exhibits/publications/
 ---
 
@@ -51,3 +50,5 @@ The Pratt student publication with perhaps the most long-standing ties with stud
 {% include inline_image.html collection='protest' pid='obj26' %}
 
 {% include inline_image.html collection='protest' pid='obj27' %}
+
+<a class="next-exhibit" href="../strike-of-72">Proceed to Strike of 72<img src="../../assets/openseadragon/images/next_hover.png" alt=""></a>
